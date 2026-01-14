@@ -178,6 +178,8 @@ This project covers core booking logic, but there's room to grow:
 
 ![Booking Modal](./screenshots/booking-modal.png)
 
+![Booking Modal Success](./screenshots/booking-modal-2.png)
+
 ### Booking History
 *View all past bookings and re-download tickets*
 
